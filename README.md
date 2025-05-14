@@ -1,11 +1,11 @@
-![I am Minhajul-Islam01](https://github.com/harun181/harun181/blob/main/code.png)
+![I am Minhaj465](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Minhajul Islam(Minhaj)</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Minhajul-Islam01&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=Minhaj465&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
@@ -15,7 +15,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/Minhajul-Islam01](https://github.com/Minhajul-Islam01)
+- 👨‍💻 All of my projects are available at [https://github.com/Minhajul-Islam01](https://github.com/Minhaj465)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 

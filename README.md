@@ -73,7 +73,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
   <a href="https://github.com/Minhaj465">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minhajul-Islam01&theme=radical" alt="Minhaj's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minhaj465&theme=radical" alt="Minhaj's GitHub Contribution"/>
   </a>
 </p>
 

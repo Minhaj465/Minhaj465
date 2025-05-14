@@ -15,7 +15,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/Minhajul-Islam01](https://github.com/Minhaj465)
+- 👨‍💻 All of my projects are available at [https://github.com/Minhaj465](https://github.com/Minhaj465)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
@@ -72,14 +72,14 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/Minhajul-Islam01">
+  <a href="https://github.com/Minhaj465">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Minhajul-Islam01&theme=radical" alt="Minhaj's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Minhajul-Islam01"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Minhajul-Islam01&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Minhajul-Islam01"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Minhajul-Islam01&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Minhaj465"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Minhaj465&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Minhaj465"><img alt="Minhaj's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Minhaj465&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
